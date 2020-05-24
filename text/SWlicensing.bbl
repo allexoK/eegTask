@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+\providecommand{\biburl}[1]{\url{#1}}
+\providecommand{\urlprefix}{Dostupn{\' e} z: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{ZYIgkY8lAhBn4FIP}
+Berne Conventionfor the Protection of Literary and Artistic Works.
+\urlprefix\biburl{https://www.wipo.int/edocs/lexdocs/treaties/en/berne/trt_berne_001en.pdf}
+
+\bibitem{bubnjdnGvCIhNXGA}
+Troan, L.: Open Source from a Proprietary Perspective.
+\urlprefix\biburl{https://slidex.tips/download/open-source-from-a-larry-ootpa-troan}
+
+\bibitem{IguH4d48zXQFMfvo}
+BSD-2-Clause.
+\urlprefix\biburl{https://opensource.org/licenses/BSD-3-Clause}
+
+\bibitem{MsSRRkiT0fTO9nIL}
+BSD-3-Clause.
+\urlprefix\biburl{https://opensource.org/licenses/BSD-3-Clause}
+
+\bibitem{ZzHvZjzunNBFRsfW}
+MIT license.
+\urlprefix\biburl{https://opensource.org/licenses/MIT}
+
+\bibitem{e7U2F4YYUmCPrud7}
+GPL licence.
+\urlprefix\biburl{https://opensource.org/licenses/gpl-license}
+
+\bibitem{g1E6ZMq6JAfYgcLv}
+LGPL.
+\urlprefix\biburl{https://opensource.org/licenses/lgpl-license}
+
+\bibitem{BTYJHnsgDT2Z6Ybd}
+Trade secrets: An efficient tool for competitiveness.
+\urlprefix\biburl{https://www.iprhelpdesk.eu/sites/default/files/newsdocuments/Fact-Sheet-Trade-Secrets-Efficient-Tool-Competitiveness-EN.pdf}
+
+\bibitem{Wheeler24September2007}
+Wheeler, D.: The Free-Libre / Open Source Software (FLOSS) License Slide:
+  str.~2.
+\urlprefix\biburl{https://dwheeler.com/essays/floss-license-slide.pdf}
+
+\bibitem{YKQXazuETvNjb64y}
+Mu, H.: Bahmni: Free Open source Modular EMR \& Hospital System.
+\urlprefix\biburl{https://medevel.com/bahmni-free-open-source-modular-emr-hospital-system/}
+
+\bibitem{VxVClGAHSS0nUOAN}
+Mu, H.: OpenHospital open source HIS ( Hospital Information System ) for
+  developing countries.
+\urlprefix\biburl{https://medevel.com/openhospital-his/}
+
+\bibitem{Webster2011}
+Webster, P.~C.: The rise of open-source electronic health records. \emph{The
+  Lancet}, ro\v cn\'\i{}k 377, \v c. 9778, 2011: s. 1641--1642, ISSN 01406736,
+  \doi{10.1016/S0140-6736(11)60659-4}.
+\urlprefix\biburl{https://linkinghub.elsevier.com/retrieve/pii/S0140673611606594}
+
+\bibitem{3PxGu0jLVzLuc5yu}
+MacCallum, K.: When should you use Open Source Software in Medical Devices?
+\urlprefix\biburl{https://starfishmedical.com/blog/open-source-software-medical-devices/}
+
+\bibitem{czisK9MyO7pfkhy0}
+OpenBCI.
+\urlprefix\biburl{https://openbci.com/}
+
+\bibitem{URfR4Gj60wAO1IvK}
+MobilECG.
+\urlprefix\biburl{https://github.com/xdever/MobilECG-II}
+
+\end{thebibliography}

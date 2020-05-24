@@ -1,0 +1,85 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: SWlicensing.aux
+The style file: csn690.bst
+Database file #1: bibliografie.bib
+Warning--entry type for "bubnjdnGvCIhNXGA" isn't style-file defined
+--line 8 of file bibliografie.bib
+Warning--entry type for "ZYIgkY8lAhBn4FIP" isn't style-file defined
+--line 15 of file bibliografie.bib
+Warning--entry type for "IguH4d48zXQFMfvo" isn't style-file defined
+--line 22 of file bibliografie.bib
+Warning--entry type for "MsSRRkiT0fTO9nIL" isn't style-file defined
+--line 29 of file bibliografie.bib
+Warning--entry type for "e7U2F4YYUmCPrud7" isn't style-file defined
+--line 35 of file bibliografie.bib
+Warning--entry type for "g1E6ZMq6JAfYgcLv" isn't style-file defined
+--line 42 of file bibliografie.bib
+Warning--entry type for "BTYJHnsgDT2Z6Ybd" isn't style-file defined
+--line 49 of file bibliografie.bib
+Warning--entry type for "3PxGu0jLVzLuc5yu" isn't style-file defined
+--line 76 of file bibliografie.bib
+Warning--entry type for "YKQXazuETvNjb64y" isn't style-file defined
+--line 84 of file bibliografie.bib
+Warning--entry type for "VxVClGAHSS0nUOAN" isn't style-file defined
+--line 92 of file bibliografie.bib
+Warning--entry type for "czisK9MyO7pfkhy0" isn't style-file defined
+--line 100 of file bibliografie.bib
+Warning--entry type for "URfR4Gj60wAO1IvK" isn't style-file defined
+--line 106 of file bibliografie.bib
+Warning--entry type for "ZzHvZjzunNBFRsfW" isn't style-file defined
+--line 113 of file bibliografie.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--to sort, need author or key in ZYIgkY8lAhBn4FIP
+Warning--to sort, need author or key in IguH4d48zXQFMfvo
+Warning--to sort, need author or key in MsSRRkiT0fTO9nIL
+Warning--to sort, need author or key in ZzHvZjzunNBFRsfW
+Warning--to sort, need author or key in e7U2F4YYUmCPrud7
+Warning--to sort, need author or key in g1E6ZMq6JAfYgcLv
+Warning--to sort, need author or key in BTYJHnsgDT2Z6Ybd
+Warning--to sort, need author or key in czisK9MyO7pfkhy0
+Warning--to sort, need author or key in URfR4Gj60wAO1IvK
+Warning--empty journal in Wheeler24September2007
+Warning--empty year in Wheeler24September2007
+You've used 15 entries,
+            3151 wiz_defined-function locations,
+            726 strings with 7444 characters,
+and the built_in function-call counts, 3962 in all, are:
+= -- 234
+> -- 51
+< -- 4
++ -- 29
+- -- 12
+* -- 175
+:= -- 380
+add.period$ -- 16
+call.type$ -- 15
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 407
+empty$ -- 486
+format.name$ -- 12
+if$ -- 873
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 90
+newline$ -- 70
+num.names$ -- 12
+pop$ -- 274
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 211
+stack$ -- 0
+substring$ -- 118
+swap$ -- 161
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 11
+while$ -- 16
+width$ -- 17
+write$ -- 110
+(There were 24 warnings)
