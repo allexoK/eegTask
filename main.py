@@ -20,4 +20,5 @@ f = featureExtractor("hypnogram2.csv","eeg2.csv")
 sig = f.getSignalsToPredict()
 
 model = load_model("powerModel2")
-print(model.summary())
+predicted = model.predict(sig[0])
+f.updateFileWithNewValues(predicted,"updatedHypn2.csv")
